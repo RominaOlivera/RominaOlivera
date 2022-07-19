@@ -1,5 +1,5 @@
 ### Hola soy Romi! 👋
-https://user-images.githubusercontent.com/89470788/179838164-06be0536-2522-4d31-8a43-15d894f33473.mp4
+![Desarrolladora Full Stack](https://user-images.githubusercontent.com/89470788/179838629-57bff634-dc88-4b88-9bbf-4cfcb42a43d6.gif)
 
 <!--
 **RominaOlivera/RominaOlivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
