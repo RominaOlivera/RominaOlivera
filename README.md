@@ -8,7 +8,7 @@
 - 📚 Sigo aprendiendo todo sobre las tecnologías Frontend y Backend 😅
 - 💪🏼 Objetivos futuros: Aprender más tecnologías - Nunca dejes de crear nuevas ideas.
 
----
+
 ### Tecnologias con las que he trabajado
 
 ![js](https://user-images.githubusercontent.com/89470788/179840206-818bdcc1-666c-4b63-a9a7-b16638b6af19.svg)
