@@ -13,6 +13,8 @@
 ![html](https://user-images.githubusercontent.com/89470788/179840609-ca904aae-8dd6-489c-b49b-4e90c6ec6656.svg)
 ![js](https://user-images.githubusercontent.com/89470788/179840206-818bdcc1-666c-4b63-a9a7-b16638b6af19.svg)
 ![node](https://user-images.githubusercontent.com/89470788/179841874-22ca1b49-8b22-46bd-bd1c-6ac5bc73c03f.svg)
+![react](https://user-images.githubusercontent.com/89470788/179842421-1ca9eb60-0f36-4428-b2a1-3ff2ae68ab3c.svg)
+
 
 
 
