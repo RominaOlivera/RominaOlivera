@@ -20,6 +20,7 @@
 
 ---
 ## Herramientas de diseño
+![illustrator](https://user-images.githubusercontent.com/89470788/179844009-8e862ebb-b259-4ec8-acfe-dac403500f1b.svg)
 
 
 
