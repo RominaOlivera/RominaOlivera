@@ -1,5 +1,5 @@
 ### Hola soy Romi! 👋
- ![me](https://www.canva.com/design/DAFG46Pg3AE/RRf78FWWxEh5QpQJdX_2xA/view?utm_content=DAFG46Pg3AE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+ ![me](file:///C:/Users/Pc/Downloads/Negro%20y%20Rojo%20Elegante%20y%20Profesional%20Simple%20Presentaci%C3%B3n.pdf)
 <!--
 **RominaOlivera/RominaOlivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
