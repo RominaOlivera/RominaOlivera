@@ -22,6 +22,8 @@
 ## Herramientas de diseño
 ![illustrator](https://user-images.githubusercontent.com/89470788/179844009-8e862ebb-b259-4ec8-acfe-dac403500f1b.svg)
 ![potoshop](https://user-images.githubusercontent.com/89470788/179844141-1f73cd2b-ec57-4ef1-a3bc-919a6de981d0.svg)
+![figma](https://user-images.githubusercontent.com/89470788/179844296-b7c7e715-4f09-44e3-9655-7479bd5ce53e.svg)
+
 
 
 
