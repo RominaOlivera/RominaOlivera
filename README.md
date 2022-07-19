@@ -30,7 +30,7 @@
 ## Contacto
 - 📫 [oliveraromina27@gmail.com](mailto:oliveraromina27@gmail.com)
 
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://dev-romina-olivera.netlify.app/)
+- 💻 (https://dev-romina-olivera.netlify.app/)
 
 
 
