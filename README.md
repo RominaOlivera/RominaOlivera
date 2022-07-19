@@ -30,7 +30,7 @@
 ## Contacto
 - 📫 [oliveraromina27@gmail.com](mailto:oliveraromina27@gmail.com)
 
-- 💻 (https://dev-romina-olivera.netlify.app/)
+- 💻 https://dev-romina-olivera.netlify.app
 
 
 
