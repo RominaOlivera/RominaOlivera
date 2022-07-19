@@ -9,7 +9,8 @@
 - 💪🏼 Objetivos futuros: Aprender más tecnologías - Nunca dejes de crear nuevas ideas.
 
 
-### Tecnologias con las que he trabajado
+## Tecnologias con las que he trabajado
+
 
 ![js](https://user-images.githubusercontent.com/89470788/179840206-818bdcc1-666c-4b63-a9a7-b16638b6af19.svg)
 ![html](https://user-images.githubusercontent.com/89470788/179843482-39b09d7f-1c47-4797-9552-8144a056b205.svg)
