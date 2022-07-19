@@ -1,4 +1,5 @@
 ### Hola soy Romi! 👋
+![Negro y Rojo Elegante y Profesional Simple Presentación (1)](https://user-images.githubusercontent.com/89470788/179836899-fda37ac1-85de-4fc8-a774-5b76626a604f.jpg)
 
 <!--
 **RominaOlivera/RominaOlivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
