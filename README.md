@@ -28,8 +28,7 @@
 ![figma](https://user-images.githubusercontent.com/89470788/179844296-b7c7e715-4f09-44e3-9655-7479bd5ce53e.svg)
 
 ## Contacto
-![gmail](https://user-images.githubusercontent.com/89470788/179847138-8c7a57a4-508b-4449-b5f9-de0f1d34c8da.svg)
-oliveraromina27@gmail.com
+- 📫 [olumidenwosu@gmail.com](mailto:oliveraromina27@gmail.com)
 
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://dev-romina-olivera.netlify.app/)
 
