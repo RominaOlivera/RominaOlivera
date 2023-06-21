@@ -4,7 +4,7 @@
 
 ## Sobre mi
 
-- 👨‍💻 Amo programar y estoy en busqueda de mi primer trabajo IT 
+- 👨‍💻 Amo programar !!
 - 📚 Sigo aprendiendo todo sobre las tecnologías Frontend y Backend 😅
 - 💪🏼 Objetivos futuros: Aprender más tecnologías - Nunca dejes de crear nuevas ideas.
 
